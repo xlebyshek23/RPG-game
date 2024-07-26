@@ -1,0 +1,263 @@
+{
+  "dialogs": [
+    {
+      "text": "You are a famous adventurer. Recently you found out that in a dungeon somewhere under the forests in the jungle there is an ancient artifact that is legendary.Having found the right cave, you, making your way through the roots of the trees, go out into a small room with a huge hole in the middle. You clearly understand that you are going there. Dropping lower, an open door is visible. Will you go there?\n1 - Yes\n2 - No\nYour choise: ",
+      "var1": 1,
+      "var2": 2,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "Once inside the room, you hear the stone array behind you slowly closing. Turning around, it is clear for sure - there is no way back. When your eyes get used to the darkness and you can see objects in the room a little better, you notice a wooden door. and in the rest of the room there is bare stone and rare lichen. You have a pair of lock picks in your pocket that you always carry with you or you can try to force the door open.\nWhat will you do?\n1 - Open notes(Intelligence)\n2 - Try to take by force (Force)\n Your choice: ",
+      "var1": 3,
+      "var2": 3,
+      "key1": 1,
+      "key2": 2
+    },
+    {
+      "text": "Although you are an experienced adventurer, you do not want to put your life in such danger and decide to step back. Upon returning home, you are greeted by a family: a wife and two children. You all sit down at the table and drink tea together.\nA boring ending.",
+      "var1": -1,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "Having made your way inside the room, you observe another door in front of you, but this time, apparently, with a combination lock. There are piles of garbage and human remains around you. \nWhat will you do?\n1 - Try to enter the door code\n2 - Access the trash and the door\nYour choice: ",
+      "var1": 4,
+      "var2": 5,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "You go to the door and take a closer look at the mechanism. This is a stone combination lock, which apparently locks the door somewhere inside. Obviously, you can't do without the right password.\n 1 - Try to enter the password\n2 - Go back to the previous choice\nYour choice: ",
+      "var1": 14,
+      "var2": 3,
+      "key1": 3,
+      "key2": -1
+    },
+    {
+      "text": "You turn towards the second door and the trash pile next to it.\nWhat do you want to do?\n1 - Try to find something in the trash\n2 - Go through the door\nYour choice: ",
+      "var1": 6,
+      "var2": 7,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "As you get closer to the garbage pile, you notice a corpse that is not yet completely rotten and mangy. There are still pieces of skin on him, as well as his clothes. Apparently, it was also an adventurer who couldn't get out of here. Your magical sense, which you have developed over the course of your life, does not let you down. There's definitely a spell on this corpse, but that's the question.What will you do?\n1 - Try to find out what kind of spell it is and dispel it (Magical knowledge)\n2 - Go back\nYour choice:",
+      "var1": 8,
+      "var2": 3,
+      "key1": 4,
+      "key2": -1
+    },
+    {
+      "text": "You carefully open the door and see a diary in front of you, and there is a guardian next to it. This is a large skeleton in metal armor and with a two-handed sword, which apparently does not notice you.\nWhat are you doing?\n1 - Try to steal the diary (Dexterity)\n2 - Go back\nYour choice: ",
+      "var1": 9,
+      "var2": 3,
+      "key1": 5,
+      "key2": -1
+    },
+    {
+      "text": "After examining the corpse, you definitely understand that a high-level illusion spell has been cast on me. Having understood this, you remove the spell with clear movements of your hand, you see a pendant on your chest. Inside it is a sequence of numbers. 7583\n1 - Back to the door\nYour choice: ",
+      "var1": 3,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "You have trained a lot and are experienced enough not to let yourself be noticed. You sneak past the skeleton and take the diary. It says: I don't have much time left as the curse is eating me up more and more. But for all these years spent here, I was able to figure out the password is 758 ... Then there is the unfinished number 3 and the line as if the person had lost consciousness. You feel sorry for this good-natured man, but at least you have the code.\n1 - Go back\nyour choice: ",
+      "var1": 3,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "You carefully make your way through the bones and stones lying on the floor, but suddenly something clings to your leg, which makes a strong rumble. Looking down, you see a helmet tangled in your leg. The guardian turns towards you. A collision cannot be avoided.\n1 - take the fight\nYour choice: ",
+      "var1": 11,
+      "var2": -1,
+      "key1": 6,
+      "key2": -1
+    },
+    {
+      "text": "You defeated the guardian in a fair fight. Quickly running up to the table, you grab the diary. It says: I don't have much time left as the curse is eating me up more and more. But for all these years spent here, I was able to figure out the password is 758 ... Then there is the unfinished number 3 and the line as if the person had lost consciousness. You feel sorry for this good-natured man, but at least you have the code.\n1 - return to the room\n choice: ",
+      "var1": 3,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "In the battle, you suffered wounds incompatible with life. You're dead.",
+      "var1": -1,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "Rummaging through the skeleton and its remains, you can't figure out what kind of spell it is. Apparently, your knowledge is not enough.\n1 - Go back\nyour choice: ",
+      "var1": 3,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "You enter the password, but nothing happens.Apparently you entered something wrong.\n 1 - Re-enter\n2 - Go back\nyour choice:",
+      "var1": 4,
+      "var2": 3,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "After entering the password, you notice how the door slowly moves to the left and gives you a passage. In front of you is a room with unknown tiles.\n1 - Enter inside \nyour choice:",
+      "var1": 16,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "You'd passed spikes, and after this stone doors immeaditly closed themself\n1 - move forward \nyour choice:",
+      "var1": 17,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "You are in the hall, again. It seems to be alive person in the jail cage and asking for hepl. Would you help him?\n1 - help him\n2 - leave him \nyour choice:",
+      "var1": 18,
+      "var2": 21,
+      "key1": 7,
+      "key2": -1
+    },
+    {
+      "text": "You've realesed the prisoner, and it found out that he is the famous adventurer Olechandro Panko. What is he doing there?\n1 - ask him \nyour choice:",
+      "var1": 19,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "Olechandro told us that he had got here 3 days before, while searching for the ring, whice lies in that dungeon.\n1 - ask about the ring\n2 - continue going forward \nyour choice:",
+      "var1": 20,
+      "var2": 21,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "Olechandro told you the story about the legendary Tsin's ring, which was supposed to be buried in jungles, but it's not. You've listened Olechandro, now it's time to continue the journey\n1 - move forward\nyour choice:",
+      "var1": 21,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "You've come in storage room. There are empty chests, a lot of dust and dull knifes and axes. Should you look around?\n1 - turn left to hall\n2 - go to the next room\nyour choice:",
+      "var1": 22,
+      "var2": 27,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text": "There is the closed room... And there are a lot of potions behind it. Should you try to break down the door?\n1 - break down the door\n2 - move back\nyour choice:",
+      "var1": 23,
+      "var2": 21,
+      "key1": 8,
+      "key2": -1
+    },
+    {
+      "text": "The room with potions is open. And you see the only not cracked bottle\n1 - drink potion\n2 - turn back\nyour choice:",
+      "var1": 25,
+      "var2": 21,
+      "key1": 9,
+      "key2": -1
+    },
+    {
+      "text": "The room with the potions is open. And you see the only not cracked bottle.\n1 - drink potion\n2 - give it to Olechandro. It seems to be more useful for him\nyour choice:",
+      "var1": 25,
+      "var2": 26,
+      "key1": 9,
+      "key2": 10
+    },
+    {
+      "text": "You've have drunk, +1 health point\n1 - turn back\nyour choice:",
+      "var1": 27,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text":"Alexandro has drunk the potion, now he is well. It's time to continue the journey.\n1 - turn back\nyour choice:",
+      "var1": 27,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text":"You've come in dingy room... and you are not alone there! There is a giant skeleton!\n1 - fight with it\nyour choice:",
+      "var1": 28,
+      "var2": -1,
+      "key1": 11,
+      "key2": -1
+    },
+    {
+      "text":"After serious battle you should continue moving forward or should you look around? There is a body of another daredevil who had come before you. There is the room, full of garbage, near you.\n1 - go forward\nyour choice:",
+      "var1": 29,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text":"Here is the final room... there are two switches, but you cant pull them once. Everything is covered by dirt. Who can help you with this?\n1 - ask for help\n2 - go to the nearby room and try to find something useful\nyour choice:",
+      "var1": 34,
+      "var2": 30,
+      "key1": 12,
+      "key2": -1
+    },
+    {
+      "text":"You've come in small tiny storage room. There is the bucket with rope and a pot\n1 - pick up the bucket\n2 - exit the room\nyour choice:",
+      "var1": 31,
+      "var2": 29,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text":"You've picked up the bucket, should you fill it by water from pot?\n1 - fill the bucket\nyour choice:",
+      "var1": 32,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text":"Bucket is filled. Attach it to the switch.\n1 - return to the storage room\nyour choice:",
+      "var1": 33,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text":"You've attached the bucket and... doors have been opened. There is the ring and you immediately reach your hand to it... ... ... FLOUR HAS STARTED SHAKING! Run fast as you can!!!\n1 - escape from the dungeon \nyour choice:",
+      "var1": 36,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text":"Together with Olechandro you drag the switches and... door has been opened. You've got the Tsin's ring. It's time to run out of there, because dungeon is collapsing\n1 - escape together with Olechandro and the ring\nyour choice:",
+      "var1": 36,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text":"Together with Olechandro you drag the switches and... door has been opened. You've got the Tsin's ring. It's time to run out of there, because dungeon is collapsing. But closely to the exit you've slipped and fallen. Olechandro's looked on you and leave you. You shouldnt have keep the potion yourself.vthe end for your",
+      "var1": -1,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    },
+    {
+      "text":"you successfully escaped from the dungeon, your find provided you with eternal honor and respect, you ended your career as an adventurer and lived the rest of your life with your family",
+      "var1": -1,
+      "var2": -1,
+      "key1": -1,
+      "key2": -1
+    }
+  ]
+}
